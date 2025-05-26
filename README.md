@@ -32,7 +32,7 @@ que debe ser implementado por las clases hijas para definir los permisos especí
 
 o __str__(self): Define cómo se representa un objeto Usuario como una cadena de texto, mostrando su ID y nombre.
 
-o __init__(self, usuario_id, nombre, clave): El constructor de la clase `Usuario`. Inicializa los atributos usuario_id, nombre y clave.
+o __init__(self, usuario_id, nombre, clave): El constructor de la clase Usuario. Inicializa los atributos usuario_id, nombre y clave.
 
 o	verificar_clave(): Verifica si la clave ingresada es correcta.
 
